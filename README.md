@@ -1,1 +1,1 @@
-# lenovo-clone
+# just started learning
